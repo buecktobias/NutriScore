@@ -1,3 +1,7 @@
+package gmo.nutriscore;
+
+import java.io.File;
+
 public class NutriScore {
 
     public static void main(String[] args) {
